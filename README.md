@@ -1,16 +1,16 @@
-# fairshare_flutter_project
+# fairshare
 
-A new Flutter project.
+FairShare 💰
 
-## Getting Started
+A modern expense-splitting app built with Flutter and Firebase that makes sharing costs simple and fair.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨ Features
+Smart Expense Splitting - Split bills equally, by percentage, exact amounts, or shares
+Group Management - Create groups for roommates, trips, events
+Guest Users - Add people without requiring signup, merge accounts later
+Multi-Currency Support - Real-time currency conversion
+Budget Tracking - Set group budgets with alerts
+Analytics Dashboard - Visualize spending patterns
+Privacy Mode - Hide sensitive expense details
+Export Data - Download as CSV or PDF
+And more!
