@@ -2,7 +2,7 @@
 
 A modern expense-splitting app built with Flutter that makes sharing costs simple and fair.
 <br>
-It is similar to Splitwise or CashApp
+It is similar to Splitwise or CashApp.
 <br><br>
 ✨ Features <br><br>
 Smart Expense Splitting - Split bills equally, by percentage, exact amounts<br>
